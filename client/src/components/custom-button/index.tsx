@@ -30,7 +30,7 @@ export const CustomButton = ({
         danger={danger}
         loading={loading}
         size="large"
-        shape={ shape }
+        shape={ shape }        
         onClick={ onClick }
         icon={ icon }
       >
